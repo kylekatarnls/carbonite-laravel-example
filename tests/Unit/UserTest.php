@@ -71,9 +71,4 @@ class UserTest extends TestCase
         // So, you can use Carbonite::speed() but it always safer to achieve your unit tests using
         // frozen time.
     }
-
-    public function testValidUntil()
-    {
-
-    }
 }
